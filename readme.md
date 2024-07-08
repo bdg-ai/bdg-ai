@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdg-ai&label=Profile%20views&color=0e75b6&style=flat" alt="bdg-ai" /> </p>
 
-- 👯 I’m doing freelance computer vision work [Website](bdg-ai.io)
+- 👯 I’m doing freelance computer vision work [Website](https://bdg-ai.io)
 
 - ⚡ Watch me me on [Youtube](https://www.youtube.com/channel/UCC6cRH_VBKyq4zNKEmd-bgw)
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/briandegrootai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="briandegrootai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brian-de-groot-618114264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-de-groot-618114264" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bdg-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bdg-ai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@bdg-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bdg-ai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
