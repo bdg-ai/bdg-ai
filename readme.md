@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdg-ai&label=Profile%20views&color=0e75b6&style=flat" alt="bdg-ai" /> </p>
 
-- 👯 I’m doing freelance computer vision work [Website](https://bdg-ai.io)
+- 👯 I’m doing Freelance Computer Vision projects [Website](https://bdg-ai.io)
 
 - ⚡ Watch me me on [Youtube](https://www.youtube.com/channel/UCC6cRH_VBKyq4zNKEmd-bgw)
 
