@@ -1,1 +1,14 @@
+QR Recognition with Pyzbar & opencv
 
+pip install opencv-python pyzbar
+
+source = 0: Specifies the default camera index.
+Function read_qr_code_from_camera: Manages the entire QR code scanning process.
+cap = cv2.VideoCapture(source): Opens the camera for capturing video.
+cap.isOpened(): Checks if the camera was successfully opened.
+decode(frame): Decodes any QR codes found in the current video frame.
+Drawing QR Code Perimeter: Draws lines around the detected QR code.
+Displaying QR Code Data: Adds text to the frame showing the decoded data.
+cv2.imshow: Displays the current frame with detected QR codes.
+cv2.waitKey(1): Checks for key press to exit the loop.
+Cleaning Up: Releases the camera and closes all OpenCV windows.
