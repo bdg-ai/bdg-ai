@@ -17,7 +17,7 @@ Setup Instructions:
      ```
      python prepare.py
      ```
-   - This will create a directory with saved face images for training.
+   - This will create a directory with saved face images for training automaticaly when running the camera.
 
 2. **Train Model:**
    - This script trains the LBPH model with the collected face images.
