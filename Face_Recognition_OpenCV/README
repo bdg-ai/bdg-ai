@@ -1,1 +1,37 @@
+Facial Recognition System with LBPH and OpenCV
+=============================================
+
+This project implements a facial recognition system using OpenCV's LBPH (Local Binary Patterns Histograms) algorithm. The process is divided into three main steps: preparing images, training a model, and running real-time recognition.
+
+Project Files:
+--------------
+1. **prepare.py** - Captures and saves face images.
+2. **train.py** - Trains the LBPH model and generates `face_recognition_model.yml`.
+3. **run.py** - Applies the trained model to recognize faces in real-time from a webcam or video source.
+
+Setup Instructions:
+-------------------
+1. **Prepare Faces:**
+   - This script detects and saves face images using Haar cascades.
+   - Usage:
+     ```
+     python prepare.py
+     ```
+   - This will create a directory with saved face images for training.
+
+2. **Train Model:**
+   - This script trains the LBPH model with the collected face images.
+   - Usage:
+     ```
+     python train.py
+     ```
+   - This will produce `face_recognition_model.yml`, the trained model file.
+
+3. **Run Recognition:**
+   - This script uses the trained model to perform real-time face recognition.
+   - Usage:
+     ```
+     python run.py
+     ```
+   - Ensure a webcam or video source is connected to test real-time recognition.
 
