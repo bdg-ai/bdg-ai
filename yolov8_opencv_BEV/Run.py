@@ -81,7 +81,7 @@ while cap.isOpened():
         cv2.putText(tactical_map_display, str(idx+1), tuple(point), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 2)
 
     # YOLO detection
-    results = model.track(frame, show=False, tracker="bytetrack.yaml")
+    results = model.track(frame, show=False, tracker="bytetrack.yaml", persist=True)
     print(results)
     boxes = results[0].boxes.xyxy.cpu().tolist()
     ids = results[0].boxes.id.cpu().tolist() if results[0].boxes.id is not None else []
